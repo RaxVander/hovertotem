@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "hovertotem",
+  "id": "Fast ip ping",
   "version": "${version}",
-  "name": "Hover Totem",
-  "description": "Hover over a totem in your inventory to move it to your offhand and/or hotbar. Configurable delay, random delay range and mode.",
-  "authors": ["You"],
+  "name": "Fast IP Ping",
+  "description": "Yeet the laggy reversed DNS lookup for literal ip server addresses",
+  "authors": ["fallen_breath"],
   "license": "MIT",
   "environment": "client",
   "entrypoints": {
